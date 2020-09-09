@@ -53,4 +53,4 @@ async def p_msg(ctx):
 
 
 
-bot.run('NzUxMjUwODYzMjYzMTg3MDA1.X1GW4w.iz92CCgsGbxps2wvV7dzR3uCMCI')
+bot.run('')
